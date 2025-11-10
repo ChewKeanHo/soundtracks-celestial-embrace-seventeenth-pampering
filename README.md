@@ -1,19 +1,27 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Celestial Embrace - Seventeenth Pampering | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Need a loving and peaceful chilling track? Here is one for you. Designed to
+make a great background filling soundtrack for steering away from boredom.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #chillwave #chillout #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/16_Celestial-Embrace-Sixteenth-Cuddles.mp3
+  Size: 5953536         Blocks: 11632      IO Block: 4096   regular file
+Device: 253,2   Inode: 42088644    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-10 11:29:19.909932015 +0800
+Modify: 2025-11-10 11:04:03.494548060 +0800
+Change: 2025-11-10 11:04:03.498548080 +0800
+ Birth: 2025-07-20 11:53:33.846221347 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-10
+On YouTube since : 2026-04-05
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=9_CBJFh8fw0)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +54,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Celestial Embrace - Seventeenth Pampering
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-celestial-embrace-seventeenth-pampering
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
